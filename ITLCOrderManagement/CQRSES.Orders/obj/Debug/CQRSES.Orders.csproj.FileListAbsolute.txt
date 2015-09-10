@@ -1,0 +1,12 @@
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRSES.Orders\bin\Debug\CQRSES.Orders.dll.config
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRSES.Orders\bin\Debug\CQRSES.Orders.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRSES.Orders\bin\Debug\CQRSES.Orders.pdb
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRSES.Orders\bin\Debug\EntityFramework.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRSES.Orders\bin\Debug\EntityFramework.SqlServer.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRSES.Orders\bin\Debug\Microsoft.ServiceBus.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRSES.Orders\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRSES.Orders\bin\Debug\EntityFramework.xml
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRSES.Orders\bin\Debug\EntityFramework.SqlServer.xml
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRSES.Orders\bin\Debug\Microsoft.ServiceBus.xml
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRSES.Orders\obj\Debug\CQRSES.Orders.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRSES.Orders\obj\Debug\CQRSES.Orders.pdb

@@ -1,0 +1,17 @@
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\CQRS.Orders.dll.config
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\CQRS.Orders.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\CQRS.Orders.pdb
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\EntityFramework.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\EntityFramework.SqlServer.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\Microsoft.ServiceBus.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\EntityFramework.xml
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\EntityFramework.SqlServer.xml
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\Microsoft.ServiceBus.xml
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\obj\Debug\CQRS.Orders.csprojResolveAssemblyReference.cache
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\obj\Debug\CQRS.Orders.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\obj\Debug\CQRS.Orders.pdb
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\CQRS.Infrastructure.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\Newtonsoft.Json.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\CQRS.Infrastructure.pdb
+D:\Knowledge\My Knowledge\ITLCOrderManagement\CQRS.Orders\bin\Debug\Newtonsoft.Json.xml

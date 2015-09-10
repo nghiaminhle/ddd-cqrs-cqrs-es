@@ -1,0 +1,7 @@
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.DomainService\bin\Debug\DDD.DomainService.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.DomainService\bin\Debug\DDD.DomainService.pdb
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.DomainService\bin\Debug\DDD.Persistence.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.DomainService\bin\Debug\DDD.Persistence.pdb
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.DomainService\obj\Debug\DDD.DomainService.csprojResolveAssemblyReference.cache
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.DomainService\obj\Debug\DDD.DomainService.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.DomainService\obj\Debug\DDD.DomainService.pdb

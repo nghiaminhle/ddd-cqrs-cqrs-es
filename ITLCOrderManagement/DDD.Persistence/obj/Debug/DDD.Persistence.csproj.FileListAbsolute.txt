@@ -1,0 +1,9 @@
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Persistence\obj\Debug\DDD.Persistence.csprojResolveAssemblyReference.cache
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Persistence\bin\Debug\DDD.Persistence.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Persistence\bin\Debug\DDD.Persistence.pdb
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Persistence\bin\Debug\DDD.Infrastructure.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Persistence\bin\Debug\DDD.Orders.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Persistence\bin\Debug\DDD.Infrastructure.pdb
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Persistence\bin\Debug\DDD.Orders.pdb
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Persistence\obj\Debug\DDD.Persistence.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Persistence\obj\Debug\DDD.Persistence.pdb

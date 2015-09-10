@@ -1,0 +1,13 @@
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\obj\Debug\DDD.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\bin\Debug\DDD.Infrastructure.dll.config
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\bin\Debug\DDD.Infrastructure.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\bin\Debug\DDD.Infrastructure.pdb
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\bin\Debug\Microsoft.ServiceBus.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\bin\Debug\Microsoft.ServiceBus.xml
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\obj\Debug\DDD.Infrastructure.dll
+D:\Knowledge\My Knowledge\ITLCOrderManagement\DDD.Infrastructure\obj\Debug\DDD.Infrastructure.pdb
